@@ -90,7 +90,7 @@ const MenuPage = () => {
               }}
               transition={{ type: "spring", stiffness: 300 }}
             >
-              رستوران VIP
+              بامر لانژ
             </motion.h1>
             
             <div className="indicator">
