@@ -18,7 +18,7 @@ export const menuItems = [
     category: "pizza",
     image: "https://images.unsplash.com/photo-1513104890138-7c749659a591",
     rating: 4.8,
-    isPopular: true,
+  
     prepTime: 25,
     calories: 850,
     ingredients: ["پنیر موزارلا", "پپرونی", "قارچ", "سس گوجه"]
@@ -31,7 +31,7 @@ export const menuItems = [
     category: "burger",
     image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
     rating: 4.6,
-    isPopular: true,
+   
     prepTime: 15,
     calories: 720,
     ingredients: ["نان برگر", "گوشت گوساله", "پنیر چدار", "کاهو"]
@@ -80,7 +80,7 @@ export const menuItems = [
     category: "dessert",
     image: "https://images.unsplash.com/photo-1571115177098-24ec42ed204d",
     rating: 4.7,
-    isPopular: true,
+
     prepTime: 5,
     calories: 480,
     ingredients: ["بیسکویت", "خامه پنیر", "توت فرنگی", "شکر"]
